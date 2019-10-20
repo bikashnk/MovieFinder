@@ -1,0 +1,3 @@
+export const MOVIEACTION = {
+  'FETCH_MOVIE_DETAILS' : 'FETCH_MOVIE_DETAILS'
+ };
